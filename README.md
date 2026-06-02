@@ -8,8 +8,16 @@ Each topic includes working code examples and a companion blog post explaining t
 📝 **Blog:** [robmcbryde.hashnode.dev](https://robmcbryde.hashnode.dev)
 
 ---
+ 
+## Posts
+ 
+| # | Title | Code | Post |
+|---|-------|------|------|
+| 01 | Welcome — Setup, Tools & How to Use This Repo | — | [Read →](https://robmcbryde.hashnode.dev/welcome-to-ai-notebook-documenting-my-journey-ai) |
+| 02 | Getting Started with LangChain: LLMs, Prompts & Chains | [langchain/01-getting-started](./langchain/01-getting-started/) | Coming soon |
+| 03 | Chains — Building Multi-Step Workflows with LCEL | [langchain/02-chains](./langchain/02-chains/) | Coming soon |
 
-## Topics
+
 
 ### LangChain
 
