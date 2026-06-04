@@ -5,7 +5,7 @@ A hands-on learning journal documenting my exploration of AI.
 This will include popular frameworks like LangChain and LangGraph.
 Each topic includes working code examples and a companion blog post explaining the concepts.
 
-📝 **Blog:** [robmcbryde.hashnode.dev](https://robmcbryde.hashnode.dev)
+📝 **Blog:** [ai-notebook.uk](https://ai-notebook.uk/)
 
 ---
  

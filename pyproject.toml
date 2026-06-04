@@ -5,7 +5,10 @@ description = "A hands-on learning journal documenting my exploration of AI."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "datasets>=4.8.5",
     "dotenv>=0.9.9",
+    "litellm>=1.87.0",
+    "pydantic>=2.13.4",
     "ruff>=0.15.15",
 ]
 
