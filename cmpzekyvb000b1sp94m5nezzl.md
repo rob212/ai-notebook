@@ -554,4 +554,4 @@ In our sample, even the best results reveals that 65% of even the "easiest" Gaia
 
 Now we have experimented with our first agent, our learnings indicate we should explore introducing "tools" to their capabilities.
 
-We will do this by learning how about Tool definitions.
+We will do this by learning how about [Tool definitions](https://ai-notebook.uk/llm-tools).
