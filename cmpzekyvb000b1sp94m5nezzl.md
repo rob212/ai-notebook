@@ -5,6 +5,7 @@ seoDescription: "A tutorial blog post on how to build your first AI Agent from S
 datePublished: 2026-06-04T11:19:37.613Z
 cuid: cmpzekyvb000b1sp94m5nezzl
 slug: building-your-first-ai-agent
+cover: https://cdn.hashnode.com/uploads/covers/6a1ed89dc5484173f87dd5bd/c3657bcb-8787-4f81-9250-05754d8d1cc3.jpg
 tags: ai, python, learning, beginners, ai-agents
 
 ---
