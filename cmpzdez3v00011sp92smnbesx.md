@@ -103,4 +103,4 @@ This metadata is particularly revealing. Even though this is a Level 1 problem, 
 
 Now we have explored a number of concepts, we can create our first agent utilising these. We then test our agent using some Level 1 questions from the Gaia dataset.
 
-I document this in [Building Your First Agent](https://rob212.github.io/rob-agent/building-your-first-agent/).
+I document this in [Building Your First Agent](https://ai-notebook.uk/building-your-first-ai-agent).
