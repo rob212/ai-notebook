@@ -378,6 +378,7 @@ I have opted to encapsulate the above logic in a `utilities/tool_`[`definition.p
 
 import inspect
 import json
+
 from litellm import completion
 
 
@@ -470,6 +471,7 @@ def simple_agent_loop(system_prompt: str, question: str, tooling, model: str):
                 )
         else:
             return assistant_message.content, messages
+
 ```
 
 Our`simple_agent_loop` returns the final context purely for our learning purposes alongside our LLMs final answer.
