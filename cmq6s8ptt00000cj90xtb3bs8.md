@@ -1,9 +1,12 @@
 ---
 title: "What is LangChain/LangGraph?"
+seoTitle: "What is LangChain and LangGraph"
+seoDescription: "Introduction to what LangChain and LangGraph the AI Frameworks are. "
 datePublished: 2026-06-09T15:16:23.906Z
 cuid: cmq6s8ptt00000cj90xtb3bs8
 slug: what-is-langchain-langgraph
 cover: https://cdn.hashnode.com/uploads/covers/6a1ed89dc5484173f87dd5bd/efac060f-4137-41f2-b499-26f57d0832b1.jpg
+tags: ai, python, begineer, langchain, langgraph
 
 ---
 
